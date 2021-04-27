@@ -1,0 +1,217 @@
+.WDS_global_nav {
+  box-shadow: none;
+  margin-bottom: 0;
+}
+.WDS_global_nav {
+  width: 100%;
+  top: 0;
+  min-width: 1060px;
+  margin-bottom: 10px;
+  height: 49px;
+  line-height: 49px;
+  border-top: 1px solid #bb3923;
+  border-bottom: 1px solid #d5d5d5;
+  background-color: #fff;
+  font-size: 12px;
+  position: fixed;
+  z-index: 1002;
+  box-shadow: 0 0 6px rgba(0,0,0,0.3);
+}
+.WDS_main {
+  width: 1000px;
+  margin: 0 auto;
+}
+.clearfix {
+  clear: both;
+}
+.WDS_global_nav_l {
+  float: left;
+}
+.WDS_global_nav a {
+  color: #666;
+}
+/*另加*/
+.WDS_global_nav i {
+  color: #666;
+  margin-left: 5px;
+}
+.txt_line {
+  margin: 0 5px;
+  color: #000;
+  font-style: normal;
+}
+.WDS_global_nav_r {
+  float: right;
+}
+.WDS_global_nav_ul {
+  height: 32px;
+  line-height: 32px;
+  padding-top: 10px;
+}
+.WDS_global_nav_ul li {
+  display: inline-block;
+  vertical-align: top;
+  line-height: 30px;
+  height: 30px;
+  position: relative;
+}
+.WDS_global_nav a {
+  color: #666;
+}
+.WDS_global_nav_ul li a img {
+  vertical-align: middle;
+  background: #d8d8d8;
+  width: 19px;
+  height: 19px;
+  margin-right: 7px;
+  border-radius: 50%;
+}
+a img {
+  border: none;
+}
+.WDS_global_nav a {
+  color: #666;
+}
+
+em,a,a:hover{
+  color:#333;
+}
+input{
+  border: none;
+  outline: none;
+}
+/*登录框样式*/
+.vertical-center-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ivu-modal{
+  top: 0;
+}
+.ivu-modal-close{
+  top:auto;
+}
+.ivu-modal-content {
+  top: -100px;
+}
+.ivu-modal-close .ivu-icon-ios-close{
+  top: -8px;
+}
+.tab_bar a.cur {
+  border-color: #3a393c;
+  font-weight: bold;
+}
+.tab_bar a {
+  font-size: 16px;
+  display: inline-block;
+  padding-bottom: 10px;
+  width: 185px;
+  text-align: center;
+  border-bottom: 3px solid #FFF;
+  color: #333;
+}
+.B_login {
+  margin: 0 auto;
+}
+.B_login {
+  padding-top: 30px;
+}
+.form_login_register .input_wrap {
+  background: url(../../assets/img/icon_input.png) no-repeat;
+  width: 198px;
+  border: 1px #ccc solid;
+  padding-left: 30px;
+}
+.form_login_register .item {
+  margin-bottom: 10px;
+  display: block;
+}
+.form_login_register .W_input, .Bv6_layer .form_login_register .W_input {
+  box-shadow: none;
+}
+.form_login_register .input_wrap .W_input {
+  border: none;
+  box-shadow: none;
+  width: 165px;
+}
+.form_login_register .password {
+  background-position: 0 -35px;
+  position: relative;
+}
+.form_login_register .item {
+  margin-bottom: 10px;
+  display: block;
+}
+.form_login_register .auto_login label {
+  margin-left: 3px;
+}
+.forget_psw {
+  margin-left: 62px;
+}
+.S_txt2,.W_input, .W_btn_b_disable, .W_btn_b_disable:hover, .W_btn_tag_cur,  .W_btn_tag_cur:hover {
+  color: #808080;
+  text-decoration: none;
+}
+.form_login_register .item_btn {
+  margin: 16px 0;
+}
+.form_login_register .item_btn .btn_34px {
+  width: 200px;
+}
+.W_btn_a {
+  color: #fff;
+}
+.btn_34px {
+  display: inline-block;
+  height: 34px;
+  line-height: 35px;
+  padding: 0 15px;
+  font-size: 14px;
+}
+.W_btn_a {
+  background: #3a393c;
+  border: 1px solid #3a393c;
+  color: #fff;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.25);
+}
+.W_btn_a,  .W_btn_b,  .W_btn_c,  .W_btn_d {
+  background-image: none;
+  padding: 0 10px 0 10px;
+  white-space: nowrap;
+  display: inline-block;
+  border-radius: 2px;
+  height: 24px;
+  line-height: 25px;
+  text-decoration: none;
+  font-size: 12px;
+  min-width: 40px;
+  text-align: center;
+  outline: none;
+}
+.form_login_register .item_btn {
+  margin: 16px 0;
+}
+.form_login_register .item_btn .btn_34px {
+  width: 200px;
+}
+.S_line1,.W_btn_prev, .W_btn_next, .W_btn_b {
+  border-color: #d9d9d9;
+}
+.text_info {
+  margin-top: 15px;
+}
+.W_tc {
+  text-align: center;
+}
+.layer_login_register_v2 .text_info a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.form_login_register .icon_qq {
+  background: url(../../assets/img/icon_qq.png);
+  display: inline-block;
+  width: 15px;
+  height: 16px;
+  margin-right: 5px;
+}
